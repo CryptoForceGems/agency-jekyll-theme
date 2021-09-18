@@ -123,7 +123,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
+    text: "Our Story"
     body: "More details coming soon..."
     section: about
 
