@@ -81,7 +81,10 @@ en: &DEFAULT_EN
         logo: assets/img/projects/soccerhub.png
       - title: "Good Games Guild"
         url: http://goodgamesguild.com/
-        logo: assets/img/projects/goodgamesguild.png 
+        logo: assets/img/projects/goodgamesguild.png
+      - title: "De Space"
+        url: https://despace.io/
+        logo: assets/img/projects/deSpace.png 
   
 
   timeline:
