@@ -40,54 +40,124 @@ en: &DEFAULT_EN
       - title: "GameFi"
         url: https://gamefi.org/
         logo: assets/img/projects/gamefi.png
+        height: 50px
       - title: "Step Hero"
         url: https://www.stephero.io/
         logo: assets/img/projects/stephero.png
+        height: 50px
       - title: "Kaby Arena"
         url: https://kabyarena.com/
         logo: assets/img/projects/kabyarena.png
+        height: 50px
       - title: "Kryptomon"
         url: https://kryptomon.co/
         logo: assets/img/projects/kryptomon.png
+        height: 50px
       - title: "Death Road"
         url: https://www.deathroad.io/
         logo: assets/img/projects/deathroad.png
+        height: 50px
       - title: "DeFi Warrior"
         url: https://defiwarrior.com/
         logo: assets/img/projects/defiwarrior.png
+        height: 50px
       - title: "Yay Games"
         url: https://yay.games/
         logo: assets/img/projects/yaygames.png
+        height: 50px
       - title: "Multi Game"
         url: https://www.multigames.io/
         logo: assets/img/projects/multigame.jpg
+        height: 50px
       - title: "Anypad"
         url: https://www.anypad.io/
         logo: assets/img/projects/anypad.png
+        height: 75px
       - title: "Hero Fi"
         url: https://herofi.com/
         logo: assets/img/projects/herofi.png
+        height: 50px
       - title: "Realm"
         url: https://www.realm.art/
         logo: assets/img/projects/realm.png
+        height: 50px
       - title: "Mech Masters"
         url: https://mechmaster.io/
         logo: assets/img/projects/mechmaster.png
+        height: 50px
       - title: "H3ro3s"
         url: http://h3ro3s.com/
         logo: assets/img/projects/heroes.png
+        height: 50px
       - title: "Soccer Hub"
         url: https://soccerhub.io/
         logo: assets/img/projects/soccerhub.png
+        height: 50px
       - title: "Good Games Guild"
         url: http://goodgamesguild.com/
         logo: assets/img/projects/goodgamesguild.png
+        height: 50px
       - title: "De Space"
         url: https://despace.io/
         logo: assets/img/projects/deSpace.png
+        height: 75px
       - title: "Knight War"
         url: https://knightwar.io/
-        logo: assets/img/projects/knightwar.png        
+        logo: assets/img/projects/knightwar.png 
+        height: 70px
+      - title: "Thetan Arena"
+        url: https://thetanarena.com/
+        logo: assets/img/projects/thetan.png 
+        height: 60px
+      - title: "Green Beli"
+        url: https://app.greenbeli.io/farming
+        logo: assets/img/projects/greenbeli.png
+        height: 50px
+      - title: "Planet Sandbox"
+        url: https://planetsandbox.io/
+        logo: assets/img/projects/planetsandbox.png
+        height: 60px
+      - title: "Pocket Arena"
+        url: https://pocketarena.com/
+        logo: assets/img/projects/pocketarena.png
+        height: 30px
+      - title: "Rangers Protocol"
+        url: https://rangersprotocol.com/
+        logo: assets/img/projects/rangersprotocol.png
+        height: 60px
+      - title: "Three Kingdoms"
+        url: https://ttk.gg/
+        logo: assets/img/projects/ttk.png
+        height: 60px
+      - title: "Continuum World"
+        url: https://continuum.world
+        logo: assets/img/projects/continuumworld.png
+        height: 50px
+      - title: "Bloktopia"
+        url: https://www.bloktopia.com/
+        logo: assets/img/projects/blocktopia.png
+        height: 35px
+      - title: "Dare NFT"
+        url: https://www.darenft.com/
+        logo: assets/img/projects/darenft.png
+        height: 50px
+      - title: "Dark Frontiers"
+        url: https://www.darkfrontiers.com/
+        logo: assets/img/projects/darkfrontiers.png
+        height: 50px
+      - title: "Warena"
+        url: https://warena.io
+        logo: assets/img/projects/warena.png
+        height: 50px
+      - title: "Cryptia"
+        url: https://cryptia.io/
+        logo: assets/img/projects/cryptia.png
+        height: 70px
+      - title: "5ire"
+        url: https://5ire.org/
+        logo: assets/img/projects/5ire.png
+        height: 60px
+        
   
 
   timeline:
@@ -133,12 +203,12 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "IceTea Labs"
-        url: https://icetea.io/
-        logo: assets/img/clients/icetea.png
       - title: "Basics Capital"
         url: https://www.basics.vip/
         logo: assets/img/clients/basics.png
+      - title: "AV Star"
+        url: https://avstarcapital.co/
+        logo: assets/img/clients/avstar.png
       - title: "Halvings capital"
         url: https://halvingscapital.com/
         logo: assets/img/clients/halvings.png
