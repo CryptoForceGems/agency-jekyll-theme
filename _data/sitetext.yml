@@ -252,7 +252,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Fill the form to get in touch or send email to cryptoforcegems@gmail.com"
+    text: "Fill the form to get in touch or send email to cryptoforcegems@gmail.com."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
